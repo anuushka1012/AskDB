@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+pandas
+google-generativeai
+matplotlib
+seaborn
+plotly
+sentencepiece
+openpyxl  # Required for reading Excel files
+sqlite3  # This is part of the standard library, no need to install separately
